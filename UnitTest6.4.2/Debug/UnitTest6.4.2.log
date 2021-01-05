@@ -1,0 +1,4 @@
+﻿  UnitTest6.4.2.cpp
+C:\Users\Nazar\Desktop\Lab\Lab-6.4(2)\Lab-6.4(2).cpp(54): warning C4715: 'FindMin': not all control paths return a value
+C:\Users\Nazar\Desktop\Lab\Lab-6.4(2)\Lab-6.4(2).cpp(66): warning C4715: 'FindMax': not all control paths return a value
+  UnitTest6.4.2.vcxproj -> C:\Users\Nazar\Desktop\Lab\Lab-6.4(2)\Debug\UnitTest6.4.2.dll
